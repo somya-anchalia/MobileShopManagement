@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5E7C4451-8213-4944-983C-082A4DD73B52}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>mobile_shop.My.MyApplication</StartupObject>
+    <RootNamespace>mobile_shop</RootNamespace>
+    <AssemblyName>mobile_shop</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>mobile_shop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>mobile_shop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MongoDB.Bson">
+      <HintPath>..\..\..\..\..\Desktop\.DLL files\MongoDB.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver">
+      <HintPath>..\..\..\..\..\Desktop\.DLL files\MongoDB.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_device.Designer.vb">
+      <DependentUpon>add_device.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_device.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_emp.Designer.vb">
+      <DependentUpon>add_emp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_emp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_control.Designer.vb">
+      <DependentUpon>admin_control.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin_control.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_id.Designer.vb">
+      <DependentUpon>admin_id.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin_id.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_login.Designer.vb">
+      <DependentUpon>admin_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_info.Designer.vb">
+      <DependentUpon>customer_info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer_info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emp_forgetpass.designer.vb">
+      <DependentUpon>emp_forgetpass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="emp_forgetpass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="create_bill.Designer.vb">
+      <DependentUpon>create_bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="create_bill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emp_control.Designer.vb">
+      <DependentUpon>emp_control.vb</DependentUpon>
+    </Compile>
+    <Compile Include="emp_control.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emp_id.Designer.vb">
+      <DependentUpon>emp_id.vb</DependentUpon>
+    </Compile>
+    <Compile Include="emp_id.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emp_login.Designer.vb">
+      <DependentUpon>emp_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="emp_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_forgetpass.designer.vb">
+      <DependentUpon>admin_forgetpass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin_forgetpass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="margin_view.Designer.vb">
+      <DependentUpon>margin_view.vb</DependentUpon>
+    </Compile>
+    <Compile Include="margin_view.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="margin_add.Designer.vb">
+      <DependentUpon>margin_add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="margin_add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modify_device.Designer.vb">
+      <DependentUpon>modify_device.vb</DependentUpon>
+    </Compile>
+    <Compile Include="modify_device.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="print_bill.Designer.vb">
+      <DependentUpon>print_bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="print_bill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_module.vb" />
+    <Compile Include="repair_mobile_add.Designer.vb">
+      <DependentUpon>repair_mobile_add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="repair_mobile_add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash_form.Designer.vb">
+      <DependentUpon>splash_form.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="view_bill.Designer.vb">
+      <DependentUpon>view_bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_bill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_device.Designer.vb">
+      <DependentUpon>view_device.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_device.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_emp.Designer.vb">
+      <DependentUpon>view_emp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_emp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_repair_mobile.Designer.vb">
+      <DependentUpon>view_repair_mobile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_repair_mobile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="add_device.resx">
+      <DependentUpon>add_device.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_emp.resx">
+      <DependentUpon>add_emp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_control.resx">
+      <DependentUpon>admin_control.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_id.resx">
+      <DependentUpon>admin_id.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_login.resx">
+      <DependentUpon>admin_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_info.resx">
+      <DependentUpon>customer_info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emp_forgetpass.resx">
+      <DependentUpon>emp_forgetpass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="create_bill.resx">
+      <DependentUpon>create_bill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emp_control.resx">
+      <DependentUpon>emp_control.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emp_id.resx">
+      <DependentUpon>emp_id.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emp_login.resx">
+      <DependentUpon>emp_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_forgetpass.resx">
+      <DependentUpon>admin_forgetpass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="margin_view.resx">
+      <DependentUpon>margin_view.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="margin_add.resx">
+      <DependentUpon>margin_add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modify_device.resx">
+      <DependentUpon>modify_device.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="print_bill.resx">
+      <DependentUpon>print_bill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="repair_mobile_add.resx">
+      <DependentUpon>repair_mobile_add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splash_form.resx">
+      <DependentUpon>splash_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_bill.resx">
+      <DependentUpon>view_bill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_device.resx">
+      <DependentUpon>view_device.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_emp.resx">
+      <DependentUpon>view_emp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_repair_mobile.resx">
+      <DependentUpon>view_repair_mobile.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_tech_background_menu_start_abstract_hd-wallpaper-457596.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employeelogin.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-Employee login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emp_control.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_device.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profitmargin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\repair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modify_device1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\can-stock-photo_csp18787219.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\margin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginpage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\srs logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store_pic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopeee.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

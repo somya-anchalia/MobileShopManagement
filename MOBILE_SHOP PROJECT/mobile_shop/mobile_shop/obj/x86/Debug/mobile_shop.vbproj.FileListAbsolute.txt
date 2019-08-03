@@ -1,0 +1,270 @@
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\bin\Debug\mobile_shop.exe
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\bin\Debug\mobile_shop.pdb
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\bin\Debug\mobile_shop.xml
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Login.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.splash_form.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Resources.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbproj.GenerateResource.Cache
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.exe
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.xml
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.pdb
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_login.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_login.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbprojResolveAssemblyReference.cache
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\bin\Debug\MongoDB.Bson.dll
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\bin\Debug\MongoDB.Driver.dll
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_control.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_device.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_control.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.modify_device.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_device.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.create_bill.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_bill.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.print_bill.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_repair_mobile.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_mobile_add.resources
+C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_emp.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.exe
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.xml
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.pdb
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\bin\Debug\mobile_shop.exe
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\bin\Debug\mobile_shop.pdb
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\bin\Debug\mobile_shop.xml
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbprojResolveAssemblyReference.cache
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_device.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_emp.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_control.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_login.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.create_bill.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_control.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_login.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Login.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.modify_device.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.print_bill.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_mobile_add.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.splash_form.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Resources.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_bill.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_device.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_repair_mobile.resources
+C:\Users\SaurabhS\Documents\Visual Studio 2010\Projects\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbproj.GenerateResource.Cache
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.exe
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.xml
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.pdb
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.exe
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.pdb
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.xml
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_device.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_emp.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_control.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_login.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.create_bill.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_control.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_login.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Login.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.modify_device.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_mobile_add.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.splash_form.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Resources.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_device.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_repair_mobile.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbproj.GenerateResource.Cache
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_id.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_id.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbprojResolveAssemblyReference.cache
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_view.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_add.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_forgetpass.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_forgetpass.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.exe
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.xml
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.pdb
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.exe
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.pdb
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.xml
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbprojResolveAssemblyReference.cache
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_device.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_emp.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_control.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_id.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_login.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_forgetpass.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.create_bill.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_control.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_id.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_login.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_forgetpass.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Login.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_view.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_add.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.modify_device.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_mobile_add.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.splash_form.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Resources.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_device.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_repair_mobile.resources
+D:\project\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbproj.GenerateResource.Cache
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.customer_info.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.print_bill.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.exe
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.xml
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.pdb
+E:\20-9-16 project\mobile_shop\mobile_shop\bin\Debug\mobile_shop.exe
+E:\20-9-16 project\mobile_shop\mobile_shop\bin\Debug\mobile_shop.pdb
+E:\20-9-16 project\mobile_shop\mobile_shop\bin\Debug\mobile_shop.xml
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbprojResolveAssemblyReference.cache
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_device.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_emp.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_control.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_id.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_login.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.customer_info.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_forgetpass.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.create_bill.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_control.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_id.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_login.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_forgetpass.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Login.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_view.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_add.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.modify_device.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.print_bill.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_mobile_add.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.splash_form.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Resources.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_device.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_repair_mobile.resources
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbproj.GenerateResource.Cache
+E:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_bill.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.exe
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.xml
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.pdb
+D:\20-9-16 project\mobile_shop\mobile_shop\bin\Debug\mobile_shop.exe
+D:\20-9-16 project\mobile_shop\mobile_shop\bin\Debug\mobile_shop.pdb
+D:\20-9-16 project\mobile_shop\mobile_shop\bin\Debug\mobile_shop.xml
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbprojResolveAssemblyReference.cache
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_device.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_emp.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_control.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_id.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_login.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.customer_info.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_forgetpass.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.create_bill.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_control.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_id.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_login.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_forgetpass.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Login.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_view.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_add.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.modify_device.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.print_bill.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_bill.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_mobile_add.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.splash_form.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Resources.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_device.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_repair_mobile.resources
+D:\20-9-16 project\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbproj.GenerateResource.Cache
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_emp.resources
+D:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_bill.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.exe
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.xml
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.pdb
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.exe
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.pdb
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.xml
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbprojResolveAssemblyReference.cache
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_device.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_emp.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_control.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_id.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_login.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.customer_info.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_forgetpass.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.create_bill.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_control.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_id.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_login.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_forgetpass.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Login.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_view.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_add.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.modify_device.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.print_bill.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_bill.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_mobile_add.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.splash_form.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Resources.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.frmModifyDevice.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_bill.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_device.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_emp.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_repair_mobile.resources
+C:\Users\sapana\Desktop\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbproj.GenerateResource.Cache
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.exe
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.xml
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.pdb
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.exe
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.pdb
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.xml
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbprojResolveAssemblyReference.cache
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_device.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_emp.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_control.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_id.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_login.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.customer_info.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_forgetpass.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.create_bill.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_control.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_id.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_login.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_forgetpass.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Login.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_view.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_add.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.modify_device.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.print_bill.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_mobile_add.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.splash_form.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Resources.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_bill.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_device.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_emp.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_repair_mobile.resources
+C:\MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbproj.GenerateResource.Cache
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.exe
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.xml
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.pdb
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.exe
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.pdb
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\bin\Debug\mobile_shop.xml
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbprojResolveAssemblyReference.cache
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_device.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.add_emp.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_control.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_id.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_login.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.customer_info.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_forgetpass.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.create_bill.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_control.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_id.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.emp_login.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.admin_forgetpass.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Login.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_view.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.margin_add.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.modify_device.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.print_bill.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.repair_mobile_add.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.splash_form.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.Resources.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_bill.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_device.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_emp.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.view_repair_mobile.resources
+D:\FINAL MOBILE_SHOP PROJECT\mobile_shop\mobile_shop\obj\x86\Debug\mobile_shop.vbproj.GenerateResource.Cache
